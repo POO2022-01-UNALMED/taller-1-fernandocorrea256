@@ -1,3 +1,8 @@
 Ingrese a continuación su primer apellido: Correa
 
 Ingrese a continuación su segundo apellido: Carreño
+
+No hubo conflictos porque cada rama cambia con respecto a diferentes secciones del archivo, antes hubo conflictos porque en el repositorio remoto y local al ser creado en ambos "lugares", entonces se puede pensar que ambos estan modificando la nada, algo como
+nada -> cambio(local)
+nada -> cambio(remoto)
+Entonces por eso se genero el conflicto, ya que ambos estan modificando la "nada" del archivo
