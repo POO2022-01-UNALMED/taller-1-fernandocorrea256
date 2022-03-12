@@ -1,0 +1,1 @@
+Debido a que git trackea a los directorios, al haber un directorio vacio, git no lo trackea, al tener el archivo respuesta.txt, ya lo trackea y se puede agregar para hacer commit
