@@ -1,0 +1,3 @@
+Git no trackea carpetas explicitamente, entonces al no tener archivos, no hubo cambios en el repositorio
+
+Pero igual yo con la opcion --allow-empty podria crear un commit "vacio", es decir que no tiene ningun cambio, aunque igual me dijeron en asesoria que no hiciera esto y siguiera
